@@ -1,6 +1,6 @@
 ![Banner](https://github.com/user-attachments/assets/181e57a6-f3bc-4ba4-bdc4-c8532d85258d)
 
-Email - nuzhatulain.28@gmail.com
+nuzhatulain.28@gmail.com
 [LinkedIn](https://www.linkedin.com/in/nuzhat-ul-ain-12b3a4272/)
 
 ---
