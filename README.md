@@ -25,6 +25,15 @@ This project was an exciting journey to work on! The CrimeSight App is designed 
   <img src="https://github.com/user-attachments/assets/538a56d7-5edd-47e9-b864-b6658b3f1d4b" width="260"/>
 </p>
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/e0fd6bfa-4363-4794-8b54-c20f3b60b259" width="260"/>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9c445b0a-69ae-441e-8972-a3fdd38efe62" width="260"/>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9f133ebc-b28f-4ea8-9834-d3bb3c19f5df" width="260"/>
+</p>
+<p align="center">
   <img src="https://github.com/user-attachments/assets/3d24e0fb-dd49-44c9-8003-42a790fe0e61" width="260"/>
 </p>
 <p align="center">
@@ -38,15 +47,6 @@ This project was an exciting journey to work on! The CrimeSight App is designed 
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a2f011aa-84b1-4c91-87c8-97ddc8ece9d6" width="260"/>
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e0fd6bfa-4363-4794-8b54-c20f3b60b259" width="260"/>
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9c445b0a-69ae-441e-8972-a3fdd38efe62" width="260"/>
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9f133ebc-b28f-4ea8-9834-d3bb3c19f5df" width="260"/>
 </p>
 
 ## Technologies
