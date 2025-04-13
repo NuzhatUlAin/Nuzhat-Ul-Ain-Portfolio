@@ -21,25 +21,32 @@ This project was an exciting journey to work on! The CrimeSight App is designed 
 - **Clips Management**: Retrieve and manage video clips.
 - **Night Mode Toggle**: Using night mode for added safety.
 
-<!-- Row 1 -->
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/538a56d7-5edd-47e9-b864-b6658b3f1d4b" width="190"/>
-  <img src="https://github.com/user-attachments/assets/3d24e0fb-dd49-44c9-8003-42a790fe0e61" width="190"/>
-  <img src="https://github.com/user-attachments/assets/50041832-6028-4c2a-9656-b8c7b97d77cf" width="190"/>
-</p>
-
-<!-- Row 2 -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/10140a93-f4f8-4e56-bf1c-9eca6be5a9ea" width="160"/>
-  <img src="https://github.com/user-attachments/assets/bebffc83-3106-408f-b75c-b562f1099829" width="160"/>
-  <img src="https://github.com/user-attachments/assets/a2f011aa-84b1-4c91-87c8-97ddc8ece9d6" width="160"/>
+  <img src="https://github.com/user-attachments/assets/538a56d7-5edd-47e9-b864-b6658b3f1d4b" width="260"/>
 </p>
-
-<!-- Row 3 -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e0fd6bfa-4363-4794-8b54-c20f3b60b259" width="160"/>
-  <img src="https://github.com/user-attachments/assets/9c445b0a-69ae-441e-8972-a3fdd38efe62" width="160"/>
-  <img src="https://github.com/user-attachments/assets/9f133ebc-b28f-4ea8-9834-d3bb3c19f5df" width="160"/>
+  <img src="https://github.com/user-attachments/assets/3d24e0fb-dd49-44c9-8003-42a790fe0e61" width="260"/>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/50041832-6028-4c2a-9656-b8c7b97d77cf" width="260"/>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/10140a93-f4f8-4e56-bf1c-9eca6be5a9ea" width="260"/>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bebffc83-3106-408f-b75c-b562f1099829" width="260"/>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a2f011aa-84b1-4c91-87c8-97ddc8ece9d6" width="260"/>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e0fd6bfa-4363-4794-8b54-c20f3b60b259" width="260"/>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9c445b0a-69ae-441e-8972-a3fdd38efe62" width="260"/>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9f133ebc-b28f-4ea8-9834-d3bb3c19f5df" width="260"/>
 </p>
 
 ## Technologies
