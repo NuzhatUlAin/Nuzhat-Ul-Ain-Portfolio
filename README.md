@@ -22,10 +22,10 @@ This project was an exciting journey to work on! The CrimeSight App is designed 
 - **Night Mode Toggle**: Using night mode for added safety.
 
 <!-- Row 1 -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/538a56d7-5edd-47e9-b864-b6658b3f1d4b" width="160"/>
-  <img src="https://github.com/user-attachments/assets/3d24e0fb-dd49-44c9-8003-42a790fe0e61" width="160"/>
-  <img src="https://github.com/user-attachments/assets/50041832-6028-4c2a-9656-b8c7b97d77cf" width="160"/>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/538a56d7-5edd-47e9-b864-b6658b3f1d4b" width="190"/>
+  <img src="https://github.com/user-attachments/assets/3d24e0fb-dd49-44c9-8003-42a790fe0e61" width="190"/>
+  <img src="https://github.com/user-attachments/assets/50041832-6028-4c2a-9656-b8c7b97d77cf" width="190"/>
 </p>
 
 <!-- Row 2 -->
